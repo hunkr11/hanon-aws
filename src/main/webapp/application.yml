@@ -1,0 +1,5 @@
+amazonProperties:
+  endpointUrl: https://s3.us-east-2.amazonaws.com
+  accessKey: AKIAIECEWXETPEJEXYJQ
+  secretKey: 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
+  bucketName: elasticbeanstalk-us-east-2-968470451838
